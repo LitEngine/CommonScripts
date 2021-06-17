@@ -1,2 +1,3 @@
 # CommonScripts
-Common scripts and cmake files
+This repository contains some common scripts, cmake files etc.
+
